@@ -89,3 +89,7 @@ int main()
     return 0; 
 
 } 
+
+//In this refactored version of the program, we have extracted the calculation of the product or sum into separate functions, calculate_product and calculate_sum, respectively. These functions take the necessary inputs as arguments and return the result of the calculation. We have also simplified the if/else statement by calling the appropriate function based on the value of x. 
+
+//By refactoring the code in this way, we have made it easier to read and maintain, and reduced the risk of introducing bugs when making changes in the future. 
