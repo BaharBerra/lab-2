@@ -1,6 +1,6 @@
 # Online Examination System with Formula Calculation
 
-This repository contains the source code and documentation for an Online Examination System with Formula Calculation developed as a part of the Software Engineering.
+This repository contains the source code and documentation for an Online Examination System with Formula Calculation developed as a part of the Software Engineering course at KHPI.
 
 ## Table of Contents
 
